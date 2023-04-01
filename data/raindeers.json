@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Rudolph",
+      "email": "rudolph@northpole.com",
+      "phone": "123-456-7890",
+      "specialty": "Leading the Sleigh",
+      "service": "10 years",
+      "image": "https://res.cloudinary.com/ds574fco0/image/upload/v1671452671/live/santa-dashboard/c8d9d148-d68f-4d01-9002-2e56c598f732_vgy39w.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dasher",
+      "email": "dasher@northpole.com",
+      "phone": "098-765-4321",
+      "specialty": "Speed",
+      "service": "8 years",
+      "image": "https://res.cloudinary.com/ds574fco0/image/upload/v1671452665/live/santa-dashboard/a6471b50-8f91-4827-b8ee-831ad9a1690a_cmwbrg.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dancer",
+      "email": "dancer@northpole.com",
+      "phone": "555-555-5555",
+      "specialty": "Agility",
+      "service": "9 years",
+      "image": "https://res.cloudinary.com/ds574fco0/image/upload/v1671452659/live/santa-dashboard/588235ee-439a-4ed0-a0ee-2b578e59a464_lutxhp.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Prancer",
+      "email": "prancer@northpole.com",
+      "phone": "222-222-2222",
+      "specialty": "Grace",
+      "service": "7 years",
+      "image": "https://res.cloudinary.com/ds574fco0/image/upload/v1671452657/live/santa-dashboard/561fb765-04d0-4157-8adf-13aa4ecac517_mt9dym.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Vixen",
+      "email": "vixen@northpole.com",
+      "phone": "333-333-3333",
+      "specialty": "Beauty",
+      "service": "6 years",
+      "image": "https://res.cloudinary.com/ds574fco0/image/upload/v1671452648/live/santa-dashboard/61a14a28-b150-494f-8578-9762a57d161a_x5pl8k.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Comet",
+      "email": "comet@northpole.com",
+      "phone": "444-444-4444",
+      "specialty": "Power",
+      "service": "5 years",
+      "image": "https://res.cloudinary.com/ds574fco0/image/upload/v1671452646/live/santa-dashboard/9f58cdf5-a66d-4c26-ad43-caaf11c82f5d_jf1ips.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Donner",
+      "email": "donner@northpole.com",
+      "phone": "111-111-1111",
+      "specialty": "Strength",
+      "service": "4 years",
+      "image": "https://res.cloudinary.com/ds574fco0/image/upload/v1671454176/live/santa-dashboard/574c4198-ceb9-4733-9eca-3b71d183bc17_dhyghc.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Blitzen",
+      "email": "blitzen@northpole.com",
+      "phone": "999-999-9999",
+      "specialty": "Endurance",
+      "service": "3 years",
+      "image": "https://res.cloudinary.com/ds574fco0/image/upload/v1671454176/live/santa-dashboard/f1362eb7-0763-4d73-a51a-ba408ec6be80_ewqmqc.jpg"
+    }
+  ]

@@ -1,0 +1,123 @@
+[
+    {
+      "id": 1,
+      "name": "Jacob",
+      "naughty": true,
+      "behaviors": [
+        "Threw a tantrum in the grocery store",
+        "Refused to eat his vegetables",
+        "Broke a family heirloom"
+      ],
+      "presents": [
+        "Coal"
+      ],
+      "note": "Dear Santa, I'm sorry for throwing a tantrum in the grocery store. I will try to be more patient and eat my vegetables. Love, Jacob",
+      "image": "https://res.cloudinary.com/ds574fco0/image/upload/v1671464566/live/santa-dashboard/339a9bef-436f-495e-829e-cf9f23eba9e4_s0mqvh.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Emily",
+      "naughty": false,
+      "behaviors": [
+        "Gave a homeless person a warm meal",
+        "Donated her allowance to a animal shelter",
+        "Helped a neighbor with their yard work"
+      ],
+      "presents": [
+        "Doll",
+        "Puzzle"
+      ],
+      "note": "Dear Santa, Thank you for all of the presents you bring every year. I hope you have a safe and happy journey. Love, Emily",
+      "image": "https://res.cloudinary.com/ds574fco0/image/upload/v1671464567/live/santa-dashboard/fece0a96-5266-46da-b47f-f0603a9f562b_nrm8qs.jpg"
+    },
+    {
+      "id": 3,
+      "name": "William",
+      "naughty": true,
+      "behaviors": [
+        "Took a toy from a younger sibling",
+        "Lied about eating the last cookie",
+        "Pushed a classmate on the playground"
+      ],
+      "presents": [
+        "Coal"
+      ],
+      "note": "Dear Santa, I'm sorry for taking my little brother's toy and lying about eating the last cookie. I will try to be more kind and honest. Love, William",
+      "image": "https://res.cloudinary.com/ds574fco0/image/upload/v1671464566/live/santa-dashboard/clbuybmg400072a6b56njeui2_ys6aos.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Mia",
+      "naughty": false,
+      "behaviors": [
+        "Helped a classmate with their reading",
+        "Donated clothes to a thrift store",
+        "Wrote a thank-you note to a grandparent"
+      ],
+      "presents": [
+        "Play kitchen",
+        "Dress-up clothes"
+      ],
+      "note": "Dear Santa, Thank you for bringing me presents every year. I hope you have a magical Christmas. Love, Mia",
+      "image": "https://res.cloudinary.com/ds574fco0/image/upload/v1671464567/live/santa-dashboard/v_trfiqv.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Emma",
+      "naughty": false,
+      "behaviors": [
+        "helping her little brother with his homework",
+        "cleaning up after herself"
+      ],
+      "presents": [
+        "a new dress",
+        "a toy horse"
+      ],
+      "note": "I've been really good this year, Santa. I hope you can bring me the presents on my list!, Emma",
+      "image": "https://res.cloudinary.com/ds574fco0/image/upload/v1671464564/live/santa-dashboard/46ea6c3d-f388-4aaa-8f6c-7a4176cc9c14_diewy1.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Ryan",
+      "naughty": false,
+      "behaviors": [
+        "following the rules at school",
+        "picking up litter in the park"
+      ],
+      "presents": [
+        "a new skateboard",
+        "a basketball"
+      ],
+      "note": "I hope you have a safe trip on Christmas Eve, Santa. I can't wait to see what you bring me!, Ryan",
+      "image": "https://res.cloudinary.com/ds574fco0/image/upload/v1671464564/live/santa-dashboard/4d637843-cc66-4a35-82c6-7aa47ab39eee_rfxkjt.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Kaitlyn",
+      "naughty": false,
+      "behaviors": [
+        "sharing her toys with her friends",
+        "saying please and thank you"
+      ],
+      "presents": [
+        "a new bike",
+        "a puzzle"
+      ],
+      "note": "Thank you for all the presents you bring every year, Santa. I can't wait to see what you bring me this year!, Kaitlyn",
+      "image": "https://res.cloudinary.com/ds574fco0/image/upload/v1671605509/live/santa-dashboard/05a6baf3-1818-4240-8874-08d891eecd70_tesp99.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Christopher",
+      "naughty": true,
+      "behaviors": [
+        "not listening to his parents",
+        "fighting with his siblings"
+      ],
+      "presents": [
+        "Coal"
+      ],
+      "note": "I'm sorry I haven't been very good this year, Santa. I promise to do better next year, Christopher",
+      "image": "https://res.cloudinary.com/ds574fco0/image/upload/v1671464564/live/santa-dashboard/3a4888b9-e640-4065-add0-0eba58d0a63e_swgzpf.jpg"
+    }
+  ]

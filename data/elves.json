@@ -1,0 +1,56 @@
+[
+    {
+      "id": 1,
+      "name": "Elfie",
+      "email": "elfie@northpole.com",
+      "phone": "123-456-7890",
+      "specialty": "Toy Making",
+      "service": "5 years",
+      "image": "https://res.cloudinary.com/ds574fco0/image/upload/v1671452662/live/santa-dashboard/a3271b4c-d45e-462b-baa2-a5330fe5862b_qr0f9z.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Elmer",
+      "email": "elmer@northpole.com",
+      "phone": "098-765-4321",
+      "specialty": "Gift Wrapping",
+      "service": "3 years",
+      "image": "https://res.cloudinary.com/ds574fco0/image/upload/v1671452650/live/santa-dashboard/8a334fad-2472-499f-9199-e316bbf74c6f_ihyav0.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Eli",
+      "email": "eli@northpole.com",
+      "phone": "555-555-5555",
+      "specialty": "Reindeer Care",
+      "service": "10 years",
+      "image": "https://res.cloudinary.com/ds574fco0/image/upload/v1671452652/live/santa-dashboard/86cf80ca-815c-4261-8201-5aa7cd22fc6d_pggagy.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Evelyn",
+      "email": "evelyn@northpole.com",
+      "phone": "222-222-2222",
+      "specialty": "Cookie Baking",
+      "service": "8 years",
+      "image": "https://res.cloudinary.com/ds574fco0/image/upload/v1671452655/live/santa-dashboard/427e17d6-4335-429b-a20a-78391dc41d51_ieylfq.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Eddie",
+      "email": "eddie@northpole.com",
+      "phone": "333-333-3333",
+      "specialty": "Toy Testing",
+      "service": "7 years",
+      "image": "https://res.cloudinary.com/ds574fco0/image/upload/v1671452647/live/santa-dashboard/28aa241d-01bc-406c-a2ea-fbf213046b65_amqvj0.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Eliot",
+      "email": "eliot@northpole.com",
+      "phone": "444-444-4444",
+      "specialty": "Reindeer Training",
+      "service": "9 years",
+      "image": "https://res.cloudinary.com/ds574fco0/image/upload/v1671452644/live/santa-dashboard/4ffe565f-d019-4458-82a4-a7aa768279df_xsqu4g.jpg"
+    }
+  ]

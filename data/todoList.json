@@ -1,0 +1,212 @@
+[
+    {
+      "key": 1,
+      "tasks": [
+        {
+          "key": 1,
+          "desc": "Review the list of children and their wish lists",
+          "isDone": false
+        },
+        {
+          "key": 2,
+          "desc": "Make any necessary updates or changes to the list",
+          "isDone": false
+        }
+      ]
+    },
+    {
+      "key": 2,
+      "tasks": [
+        {
+          "key": 1,
+          "desc": "Check in with your elves",
+          "isDone": false
+        },
+        {
+          "key": 2,
+          "desc": "Make sure they have everything they need to start preparing the gifts",
+          "isDone": false
+        }
+      ]
+    },
+    {
+      "key": 3,
+      "tasks": [
+        {
+          "key": 1,
+          "desc": "Meet with your lead elf to discuss the gift-making schedule",
+          "isDone": false
+        },
+        {
+          "key": 2,
+          "desc": "Assign tasks to the other elves",
+          "isDone": false
+        },
+        {
+          "key": 3,
+          "desc": "Start preparing your workshop for the busy season",
+          "isDone": false
+        }
+      ]
+    },
+    {
+      "key": 4,
+      "tasks": [
+        {
+          "key": 1,
+          "desc": "Make any necessary repairs or upgrades to your sleigh and equipment",
+          "isDone": false
+        },
+        {
+          "key": 2,
+          "desc": "Check the condition of your reindeer harnesses",
+          "isDone": false
+        }
+      ]
+    },
+    {
+      "key": 5,
+      "tasks": [
+        {
+          "key": 1,
+          "desc": "Start packing your supplies for the trip",
+          "isDone": false
+        },
+        {
+          "key": 2,
+          "desc": "Include food for the reindeer and any spare parts you might need",
+          "isDone": false
+        },
+        {
+          "key": 3,
+          "desc": "Check the weather forecast for Christmas Eve",
+          "isDone": false
+        }
+      ]
+    },
+    {
+      "key": 6,
+      "tasks": [
+        {
+          "key": 1,
+          "desc": "Confirm with your lead elf that all the gifts are finished and ready to go",
+          "isDone": false
+        },
+        {
+          "key": 2,
+          "desc": "Double-check your list of children to make sure you have everything you need to deliver their presents",
+          "isDone": false
+        }
+      ]
+    },
+    {
+      "key": 7,
+      "tasks": [
+        {
+          "key": 1,
+          "desc": "Have a dry run with your reindeer to make sure they are in good shape for the trip",
+          "isDone": false
+        },
+        {
+          "key": 2,
+          "desc": "Check the condition of your sleigh and make any necessary repairs",
+          "isDone": false
+        }
+      ]
+    },
+    {
+      "key": 8,
+      "tasks": [
+        {
+          "key": 1,
+          "desc": "Have a team meeting with your elves to review the plan for Christmas Eve",
+          "isDone": false
+        },
+        {
+          "key": 2,
+          "desc": "Address any last-minute questions or concerns",
+          "isDone": false
+        },
+        {
+          "key": 3,
+          "desc": "Pack any remaining supplies",
+          "isDone": false
+        }
+      ]
+    },
+    {
+      "key": 9,
+      "tasks": [
+        {
+          "key": 1,
+          "desc": "Finalize your packing and load up the sleigh with all the gifts and supplies",
+          "isDone": false
+        },
+        {
+          "key": 2,
+          "desc": "Check in with your lead elf to make sure everything is ready for the big trip",
+          "isDone": false
+        }
+      ]
+    },
+    {
+      "key": 10,
+      "tasks": [
+        {
+          "key": 1,
+          "desc": "Have a quick meal with your elves to fuel up for the big trip",
+          "isDone": false
+        },
+        {
+          "key": 2,
+          "desc": "Get a good night's sleep to rest up for the long journey ahead",
+          "isDone": false
+        }
+      ]
+    },
+    {
+      "key": 11,
+      "tasks": [
+        {
+          "key": 1,
+          "desc": "Make any final adjustments to your route and plan for the night",
+          "isDone": false
+        },
+        {
+          "key": 2,
+          "desc": "Double-check that you have everything you need for the journey",
+          "isDone": false
+        }
+      ]
+    },
+    {
+      "key": 12,
+      "tasks": [
+        {
+          "key": 1,
+          "desc": "Say goodbye to your elves and thank them for their hard work",
+          "isDone": false
+        },
+        {
+          "key": 2,
+          "desc": "Climb into your sleigh and get ready for the long journey ahead",
+          "isDone": false
+        }
+      ]
+    },
+    {
+      "key": 13,
+      "tasks": [
+        {
+          "key": 1,
+          "desc": "Ho ho ho! It's Christmas Eve!",
+          "isDone": false
+        },
+        {
+          "key": 2,
+          "desc": "Set off on your journey, delivering presents to all the good boys and girls around the world",
+          "isDone": false
+        }
+      ]
+    }
+  ]
